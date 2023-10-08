@@ -1,1 +1,1 @@
-# Nasarullah_Lab2
+# AI Labs
